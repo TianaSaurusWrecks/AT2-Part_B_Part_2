@@ -10,7 +10,12 @@ const myMovie = {
     // "Title" is the key (property name) and "The Longest Day" is the value
     Title: "The Longest Day", 
     // "Year" is the key and "1964" is the value
-    Year: 1964
+    Year: 1964,
+    // Question 2.2 Add rating and summary to myMovie object
+    Rating: 5,
+    //summary
+    Summary: "World War II movie about the Normandy landings"
+
 
 };
 // Print object to console
