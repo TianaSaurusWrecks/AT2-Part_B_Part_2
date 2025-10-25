@@ -26,4 +26,9 @@ myMovie.Rating = 4; // updates the rating from 5 to 4
 myMovie.Year = 1962; // updates year from 1964 to 1962
 
 // print updated object to console
+// console.log(myMovie);
+
+// Question 2.4 Remove summary property from myMovie
+delete myMovie.Summary;
+// print updated object to console
 console.log(myMovie);
