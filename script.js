@@ -19,4 +19,11 @@ const myMovie = {
 
 };
 // Print object to console
+// console.log(myMovie);
+
+// Question 2.3 Change the data of the properties
+myMovie.Rating = 4; // updates the rating from 5 to 4
+myMovie.Year = 1962; // updates year from 1964 to 1962
+
+// print updated object to console
 console.log(myMovie);
